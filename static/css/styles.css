@@ -1,0 +1,175 @@
+/* SECTION 1 */
+/* ===================================================== */
+.title {
+    font-family: 'Courier Prime', monospace;
+    color: #2E4C6D;
+    margin-bottom: 0;
+}
+
+.title-div {
+    padding-top: 5%;
+}
+
+.propic {
+    width: 17%;
+    border-radius: 100%;
+    border: 8px solid #2E4C6D;
+}
+
+@media (max-width: 1000px) {
+    .propic {
+        width: 70%;
+    }
+}
+
+.propic-div {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+@media (max-width: 1000px) {
+    .propic-div {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+}
+
+.class-pic {
+    width: 30%;
+}
+
+@media (max-width: 1000px) {
+    .class-pic {
+        width: 80%;
+    }
+}
+
+.text-normal {
+    font-family: 'Roboto', sans-serif;
+    color:#2E4C6D;
+}
+
+.section1 {
+    background-color: #8FBDD3;
+    padding-top: 50px;
+    padding-bottom: 90px;
+    align-items: center;
+}
+
+/* ===================================================== */
+/* SECTION 2 */
+
+.transition-div {
+    padding-top: 40px;
+}
+
+.card {
+    background-color: #2E4C6D;
+}
+
+.btn {
+    color:#2E4C6D;
+    border-color: #2E4C6D;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.btn:hover {
+    background-color: #2E4C6D;
+    border-color: #2E4C6D;
+    color: #FBFACD;
+}
+
+.section2 {
+    background-color: #FEF9D9;
+    padding-top: 50px;
+    /* padding-bottom: 50px; */
+    align-items: center;
+}
+
+#collapseExample {
+    width: 400px;
+}
+
+@media (max-width: 1000px) {
+    #collapseExample {
+        width: 100%;
+    }
+}
+
+.fa-solid {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color:#2E4C6D;
+}
+
+.aboutme-div {
+    width: 400px;
+}
+
+@media (max-width: 1000px) {
+    .aboutme-div {
+        width: 100%;
+    }
+}
+
+.aboutme-text {
+    text-align: justify;
+    text-justify: left;
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+
+td {
+    color: #FBFACD;
+}
+
+.table {
+    table-layout: fixed;
+}
+
+
+td+td {
+    width: auto;
+}
+
+.contact-me {
+    padding: 0;
+    padding-top: 13px;
+}
+
+.contact-me:hover {
+    color: #8FBDD3;
+}
+
+.last-hr {
+    padding-bottom: 50px;
+}
+
+/* ===================================================== */
+/* footer*/
+
+.footer-div {
+    background-color: #2E4C6D;
+    padding-top: 15px;
+    padding-bottom: 28px;
+}
+
+.footer-icons {
+    padding: 10px 20px;
+    color:#8FBDD3;
+}
+
+.footer-icons:hover {
+    color: #FBFACD;
+}
+
+.copyright-text {
+    margin: 0;
+    padding-top: 15px;
+    color: #8FBDD3;
+}
+
+/* ===================================================== */
+
+
